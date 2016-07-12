@@ -1,0 +1,3 @@
+
+symlink("/data/system-fonts", "/system/fonts");
+
